@@ -1,0 +1,25 @@
+body{background-color: #F90101;}
+h1{color: #525c4e;
+font-family: Futura;
+font-size: 40px;
+text-align: center;}
+p{color: #F90101;
+font-family: Futura;
+font-size: 15px;}
+a{color: black;
+font-family: Futura;
+font-size; 18px;
+text-decoration: none;}
+a;hover{color:  #8C570F}
+li{background-color: #F90101;border-color: white;
+	border-style:double;
+	 text-align: center;
+	 padding: 2px;
+	 displany: inline;}
+ul{list-style-type: none;}
+.center{
+	height: 400px;
+	display: flex;
+	align-items: center;
+	
+}
